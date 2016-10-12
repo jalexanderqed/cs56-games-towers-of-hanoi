@@ -7,3 +7,5 @@
 
 # Make sure to NOT ignore the JUnit jar
 !junit-4.8.2.jar
+
+javadoc/
